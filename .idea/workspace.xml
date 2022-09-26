@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a35b3cd2-e212-4a57-96a4-03b6798f78a7" name="Changes" comment="Fonctions - Fonction majuscule - Exercice2MotMajuscule">
-      <change afterPath="$PROJECT_DIR$/src/main/java/TP5ObjetClasse/Exercice3MotMinuscule.java" afterDir="false" />
+    <list default="true" id="a35b3cd2-e212-4a57-96a4-03b6798f78a7" name="Changes" comment="Fonctions - Fonction minuscule - Exercice3MotMinuscule">
+      <change afterPath="$PROJECT_DIR$/src/main/java/TP5ObjetClasse/Exercice4CaractereMot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TP5ObjetClasse/Exercice5MotVertical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TP5ObjetClasse/Exercice6MotaLenvers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TP5ObjetClasse/Exercice7MotEgaux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TP5ObjetClasse/Exercice8Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TP5ObjetClasse/Exercice9Occurence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/TP5ObjetClasse/Fonctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TP5ObjetClasse/Fonctions.java" afterDir="false" />
     </list>
@@ -69,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664202277140</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fonctions - Fonction minuscule - Exercice3MotMinuscule">
+      <created>1664202447863</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664202447863</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,6 +99,7 @@
     <MESSAGE value="Premier Commit" />
     <MESSAGE value="Fonctions - 1ère Fonction - Exercice1LongeurString" />
     <MESSAGE value="Fonctions - Fonction majuscule - Exercice2MotMajuscule" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fonctions - Fonction majuscule - Exercice2MotMajuscule" />
+    <MESSAGE value="Fonctions - Fonction minuscule - Exercice3MotMinuscule" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fonctions - Fonction minuscule - Exercice3MotMinuscule" />
   </component>
 </project>
