@@ -8,5 +8,8 @@ public class Fonctions {
         public static String motMajuscule(String mot){
             return mot.toUpperCase();
         }
+        public static String motMinuscule(String mot){
+            return mot.toLowerCase();
+        }
 
 }
