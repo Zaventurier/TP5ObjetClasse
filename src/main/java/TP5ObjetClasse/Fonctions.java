@@ -5,5 +5,8 @@ public class Fonctions {
         public static int longeurMot(String mot){
             return mot.length();
         }
+        public static String motMajuscule(String mot){
+            return mot.toUpperCase();
+        }
 
 }
