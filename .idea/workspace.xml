@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a35b3cd2-e212-4a57-96a4-03b6798f78a7" name="Changes" comment="exos">
-      <change afterPath="$PROJECT_DIR$/src/main/java/TP5ObjetClasse/Exercice10DEmail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TP5ObjetClasse/Exercice11DateduJour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/TP5ObjetClasse/Fonctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TP5ObjetClasse/Fonctions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664207368981</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="exos">
+      <created>1664345782917</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664345782917</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

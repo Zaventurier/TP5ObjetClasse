@@ -44,6 +44,7 @@ public class Fonctions {
 
     }
     public static void dEmail(String email){
+        //Fonctions à modifier
         char lettre;
         String nom;
         nom = email.substring(0, 5);
