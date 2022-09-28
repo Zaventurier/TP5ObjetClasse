@@ -43,4 +43,13 @@ public class Fonctions {
         }return j;
 
     }
+    public static void dEmail(String email){
+        char lettre;
+        String nom;
+        nom = email.substring(0, 5);
+        String nomdomaine = email.substring(6, 15);
+
+        System.out.println("votre nom est :" + nom);
+        System.out.println("votre nom de domaine est :" + nomdomaine);
+    }
 }
