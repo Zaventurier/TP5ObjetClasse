@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a35b3cd2-e212-4a57-96a4-03b6798f78a7" name="Changes" comment="exos">
+    <list default="true" id="a35b3cd2-e212-4a57-96a4-03b6798f78a7" name="Changes" comment="Commentaires">
+      <change afterPath="$PROJECT_DIR$/src/main/java/TP5ObjetClasse/Exercice12NbrRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TP5ObjetClasse/Exercice13NomFichier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TP5ObjetClasse/Exercice11DateduJour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TP5ObjetClasse/Exercice11DateduJour.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/TP5ObjetClasse/Fonctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TP5ObjetClasse/Fonctions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664345782917</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Commentaires">
+      <created>1664345837530</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664345837530</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +119,7 @@
     <MESSAGE value="Fonctions - Fonction majuscule - Exercice2MotMajuscule" />
     <MESSAGE value="Fonctions - Fonction minuscule - Exercice3MotMinuscule" />
     <MESSAGE value="exos" />
-    <option name="LAST_COMMIT_MESSAGE" value="exos" />
+    <MESSAGE value="Commentaires" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commentaires" />
   </component>
 </project>

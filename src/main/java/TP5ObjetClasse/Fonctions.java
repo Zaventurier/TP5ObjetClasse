@@ -1,6 +1,8 @@
 package TP5ObjetClasse;
 
 
+import java.util.Random;
+
 public class Fonctions {
     //Fichier contenant les fonctions
     public static int longeurMot(String mot) {
@@ -52,5 +54,9 @@ public class Fonctions {
 
         System.out.println("votre nom est :" + nom);
         System.out.println("votre nom de domaine est :" + nomdomaine);
+    }
+    public static Random NbrRandom(int nbr1){
+        Random nbr = new Random(nbr1);
+        return nbr;
     }
 }
